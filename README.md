@@ -16,3 +16,8 @@ ML Models: Use decision tree classifiers to forecast match results.
 Statistical Analysis: Identify trends and patterns in player performance over time.
 Data Visualization: Create interactive visualizations to present findings effectively.
 Data Cleaning and Preprocessing: Handle inconsistencies and prepare data for analysis.
+
+
+Things to Add:
+- Adding the dataset on the cloud (too big for git)
+- API to call and analyze player perfomance
